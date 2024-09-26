@@ -4,4 +4,4 @@ Quick Read Me:
 -Planning on adding time function (though haven't decided this yet)
 -Bot is written in Python with Discord.Py
 
-*Make sure to download Discord.py to run this and get a Discord Bot Token.
+*Make sure to download Discord and Discord.py libraries to run this bot and get a Discord Bot Token.
